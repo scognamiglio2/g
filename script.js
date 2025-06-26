@@ -23,7 +23,7 @@ const letters = [
     "Eu quero estar perto, de corpo colado, bem grudado. Quero sentir a sua pele em contato com a minha, suas mãos entrelaçadas nas minhas e o seu cheiro. Eu quero tudo isso e mais um pouco. Com você, eu topo tudo, até mesmo ficar no seu abraço, sem dizer uma palavra, só sentindo os nossos corações batendo no mesmo compasso.",
     "De algum modo,\nminha alma\nconhecia\na sua alma\nantes que\ntivéssemos tido\na chance\nde nos encontrar.\nFoi como voltar para casa\ndepois de um dia muito, muito longo.",
     "Você coube direitinho nas músicas, nos versos, nos detalhes, nos filmes, nos textos, nas frases, nos sonhos, nos planos, nos lugares e no meu coração.",
-    "Eu e você não fomos feitos um pro outro. Nós dois fomos feitos de pó de estrelas e fragmentos do sol. Mesmo que não sejamos para todo o sempre, ainda haverá sua luz em mim e meu brilho em você.",
+    "Eu e você fomos feitos um pro outro. Nós dois fomos feitos de pó de estrelas e fragmentos do sol. Mesmo que não sejamos para todo o sempre, ainda haverá sua luz em mim e meu brilho em você.",
     "Você significa tanto para mim\nque às vezes não sei como lidar com isso.\nQuero te cuidar e te prender em meus braços\ncomo se o mundo ainda não estivesse preparado\npara merecer alguém como você.",
     "Eu te amo de um jeito totalmente inexplicável e maravilhoso.\nEu te amo porque o meu coração chega a bater mais forte só de pensar em te abraçar.\nEu te amo porque você virou o meu lar, a minha morada, e faz parte da minha vida.\nEu te amo porque eu não quero mais nada além de você.\nEu te amo porque eu te amo, e o que eu sinto não precisa de explicação.\nEu te amo sem explicações, sem perguntas, e só com amor.\nEu te amo tanto, que a única coisa que sei é: eu te amo."
 
